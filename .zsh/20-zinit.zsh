@@ -40,9 +40,6 @@ zinit ice wait lucid
 zinit snippet OMZP::node
 
 zinit ice wait lucid
-zinit snippet OMZP::nvm
-
-zinit ice wait lucid
 zinit snippet OMZP::sudo
 
 zinit ice wait lucid
