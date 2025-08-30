@@ -21,13 +21,29 @@ zinit snippet OMZL::directories.zsh
 zinit snippet OMZL::history.zsh
 zinit snippet OMZL::key-bindings.zsh
 
+zinit ice wait lucid
 zinit snippet OMZP::colored-man-pages
+
+zinit ice wait lucid
 zinit snippet OMZP::docker
+
+zinit ice wait lucid
 zinit snippet OMZP::extract
+
+zinit ice wait lucid
 zinit snippet OMZP::fzf
+
+zinit ice wait lucid
 zinit snippet OMZP::git
+
+zinit ice wait lucid
 zinit snippet OMZP::node
+
+zinit ice wait lucid
 zinit snippet OMZP::nvm
+
+zinit ice wait lucid
 zinit snippet OMZP::sudo
 
+zinit ice wait lucid
 zinit light zdharma-continuum/fast-syntax-highlighting
