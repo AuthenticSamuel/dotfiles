@@ -15,8 +15,11 @@ zinit light-mode for \
     zdharma-continuum/zinit-annex-bin-gem-node \
     zdharma-continuum/zinit-annex-patch-dl \
     zdharma-continuum/zinit-annex-rust \
-    zdharma-continuum/fast-syntax-highlighting \
     zsh-users/zsh-completions
+
+zinit snippet OMZL::directories.zsh
+zinit snippet OMZL::history.zsh
+zinit snippet OMZL::key-bindings.zsh
 
 zinit snippet OMZP::colored-man-pages
 zinit snippet OMZP::docker
@@ -26,3 +29,5 @@ zinit snippet OMZP::git
 zinit snippet OMZP::node
 zinit snippet OMZP::nvm
 zinit snippet OMZP::sudo
+
+zinit light zdharma-continuum/fast-syntax-highlighting
